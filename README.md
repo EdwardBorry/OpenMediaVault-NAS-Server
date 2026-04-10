@@ -9,6 +9,6 @@ The article doesn't aim to be a complete documentation with a detailed investiga
 # Preparation
 * Raspberry Pi (2B and newer, >1gb of RAM) and its accessories (for more details [click here](https://github.com/EdwardBorry/Raspberry-Pi-connection)).
 * Operating system as a Raspberry Pi OS Lite in your storage device.
-* Extra PC (or another device) for SSH connecting.
+* Extra PC (or another device) for SSH and OMV connections.
 
 
