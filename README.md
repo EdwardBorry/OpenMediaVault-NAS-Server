@@ -1,3 +1,5 @@
+![Raspberry Pi](https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg) ![OMV](https://www.openmediavault.org/wp-content/uploads/2016/03/openmediavault_logo.png)
+
 # What is this?
 A simple guide/instruction to creating a NAS server using OMV (OpenMediaVault) in RPi devices.
 
