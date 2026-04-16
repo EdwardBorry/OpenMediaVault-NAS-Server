@@ -9,7 +9,7 @@ After, download OMV (The process of installation may take around 15-25 minutes):
 wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
 ```
 
-Do a system reboot after that and turn SSH connection on.
+Do a system reboot after.
 
 # Running and logging into OMV
 
